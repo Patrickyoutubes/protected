@@ -6,7 +6,7 @@ local lp = plrs.LocalPlayer
 local twait, tspawn, tdelay = task.wait, task.spawn, task.delay
 
 if game.Players.LocalPlayer.Name == "GenesisAtomico" then
-lp:Kick("blacklisted reason : nice try without credits")
+lp:Kick("blacklisted for 564 days, reason : nice try")
 	twait(1)
 	g:Shutdown()
 	end
