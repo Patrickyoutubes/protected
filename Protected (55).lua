@@ -10,3 +10,9 @@ lp:Kick("blacklisted for 564 days, reason : nice try")
 	twait(1)
 	g:Shutdown()
 	end
+
+if lp.Name == "groupmaster102" then
+lp:Kick("blacklisted for 12 days reason : suspicious thing detected")
+	twait(1)
+	g:Shutdown()
+	end
