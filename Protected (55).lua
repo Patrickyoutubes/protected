@@ -24,7 +24,7 @@ lp:Kick("blacklisted for 50 days reason : suspicious thing detected")
 	end
 
 if lp.Name == "getstupid_1122" then
-lp:Kick("blacklisted for 90 days reason : suspicious thing detected , ip :1.###.23.### , Nickname = getstupid_1122")
+lp:Kick("blacklisted for 90 days reason : suspicious thing detected , ip :1.###.23.### , Nickname = getstupid_1122, Synapse X User")
 	twait(1)
 	g:Shutdown()
 	end
