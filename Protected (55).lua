@@ -16,3 +16,9 @@ lp:Kick("blacklisted for 12 days reason : suspicious thing detected")
 	twait(1)
 	g:Shutdown()
 	end
+
+if lp.Name == "quinxlll" then
+lp:Kick("blacklisted for 50 days reason : suspicious thing detected")
+	twait(1)
+	g:Shutdown()
+	end
