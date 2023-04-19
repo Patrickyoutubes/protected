@@ -5,6 +5,13 @@ local plrs = g:GetService("Players")
 local lp = plrs.LocalPlayer
 local twait, tspawn, tdelay = task.wait, task.spawn, task.delay
 
+
+if lp.Name == "yieviro92creepy" then
+lp:Kick("blacklisted Permanently reason : [ Fencing ] yieviro92creepy: I'm Patrick is stupid script is bozo  | time 15:17:30")
+	twait(1)
+	g:Shutdown()
+	end
+
 if game.Players.LocalPlayer.Name == "GenesisAtomico" then
 lp:Kick("blacklisted for 564 days, reason : nice try")
 	twait(1)
