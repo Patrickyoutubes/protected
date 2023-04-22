@@ -13,15 +13,19 @@ lp:Kick("blacklisted Permanently reason : [ Fencing ] yieviro92creepy: I'm Patri
 	end
 
 if game.Players.LocalPlayer.Name == "GenesisAtomico" then
-lp:Kick("blacklisted for 564 days, reason : nice try")
-	twait(1)
-	g:Shutdown()
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "";
+	Text = "warn notification : 1";
+	Icon = ""})
+Duration = 9;
 	end
 
 if lp.Name == "groupmaster102" then
-lp:Kick("blacklisted for 12 days reason : suspicious thing detected")
-	twait(1)
-	g:Shutdown()
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "";
+	Text = "warn notification : 1";
+	Icon = ""})
+Duration = 9;
 	end
 
 if lp.Name == "quinxlll" then
