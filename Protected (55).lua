@@ -28,14 +28,14 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 Duration = 9;
 	end
 
-if lp.Name == "quinxlll" then
-lp:Kick("blacklisted for 50 days reason : suspicious thing detected")
+
+
+
+if lp.Name == "Faisal_2362" then
+	if not isfile("iownurmom.lua") then
+		writefile("iownurmom.lua", "in report")
+lp:Kick("Warn 2 reason : i own ur mom , report , if you get warn 3 you will be blacklisted permanently , try rejoin to use it again")
 	twait(1)
 	g:Shutdown()
 	end
-
-if lp.Name == "getstupid_1122" then
-lp:Kick("blacklisted for 90 days reason : suspicious thing detected ,name = getstupid_1122, Synapse X User")
-	twait(1)
-	g:Shutdown()
 	end
