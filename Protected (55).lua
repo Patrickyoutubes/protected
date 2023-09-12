@@ -31,11 +31,9 @@ Duration = 9;
 
 
 
-if lp.Name == "Faisal_2362" then
+if lp.Name == "Mahbut98" then
 	if not isfile("iownurmom.lua") then
-		writefile("iownurmom.lua", "in report")
-lp:Kick("Warn 2 reason : i own ur mom , report , if you get warn 3 you will be blacklisted permanently , try rejoin to use it again")
-	twait(1)
-	g:Shutdown()
+		writefile("iownurmom.lua", "bugs report")
+lp:Kick("Warn 2 reason : N word , report , if you get warn 3 you will be blacklisted permanently from Pshade, try rejoin to use it again")
 	end
 	end
