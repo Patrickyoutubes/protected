@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Patrickyoutubes/protected/main/Protected_48.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Patrickyoutubes/Noskix/main/Protected_100.lua"))()
